@@ -24,4 +24,4 @@ User类： 用户类 包含用户名和分数属性，用于建立对象数组�
 
 Guess类： 猜数字算法类 ，实现游戏功能的内核
 
-![Image text](https://github.com/2226174644/Guess-Number-Game/blob/main/uml.png)
+! [Image] (https://github.com/2226174644/Guess-Number-Game/blob/main/uml.png)
