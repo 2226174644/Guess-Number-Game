@@ -6,14 +6,22 @@ Java编写猜数字游戏-面向对象课设
 
 2.GUI界面：
 Start：开始界面，包含开始、排行榜、退出选项，用户名输入框。
+
 Game:游戏界面，包含菜单栏（返回开始界面，刷新数字，查看排名），显示欢迎用户条目，猜测提示，猜测结果，所得积分；猜测数字输入框；确认，规则，退出选项按钮。
+
 Rank:排行榜界面，显示排名，用户名，分数
 
 3.设计思路：
 Run类：用于启动该程序
+
 Start类：游戏开始界面，包含按钮和欢
+
 Game类： 猜数字游戏界面 用于用户对未知4位数进行猜测
+
 Rank类： 用于显示用户排行
+
 User类： 用户类 包含用户名和分数属性，用于建立对象数组，存储数据
+
 Guess类： 猜数字算法类 ，实现游戏功能的内核
-![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
+
+![Image text](https://github.com/2226174644/Guess-Number-Game/blob/main/uml.png)
